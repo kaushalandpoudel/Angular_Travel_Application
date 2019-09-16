@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import 'ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.carousel';
+@import 'ngx-owl-carousel-o/lib/styles/prebuilt-themes/owl.theme.default';
+
+.font{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button:focus {outline:0;}

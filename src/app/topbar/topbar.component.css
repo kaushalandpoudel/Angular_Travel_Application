@@ -1,0 +1,17 @@
+.example-icon {
+    padding: 0 20px;
+}
+
+.example-icon-media {
+    padding: 0 10px;
+}
+.example-icon-home {
+    padding: 0 33%;
+} 
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+mat-toolbar{
+    height: 55px;
+}
